@@ -1,6 +1,1 @@
-Primeiro exercício usando git
-
-
-
-Segundo exercício
-
+Aqui vaõ ser colocados todos os meus projetos de PSI do 11º ano 
