@@ -1,1 +1,6 @@
-Primeiro exercício usando git 
+Primeiro exercício usando git
+
+
+
+Segundo exercício
+
